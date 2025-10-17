@@ -52,6 +52,8 @@ namespace NumbersGame
             }
             Console.WriteLine($"Du gissa inte rätt nummer tyvärr. Siffran var {number}");
 
+            //Test för att se hur en funktion skulle se ut om jag gjorde en förändring.
+
         }
 
     }
